@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/To-Do-List-App/static/css/main.83cbd2df.chunk.css",
+    "main.js": "/To-Do-List-App/static/js/main.f281c735.chunk.js",
+    "main.js.map": "/To-Do-List-App/static/js/main.f281c735.chunk.js.map",
+    "runtime-main.js": "/To-Do-List-App/static/js/runtime-main.f789cd44.js",
+    "runtime-main.js.map": "/To-Do-List-App/static/js/runtime-main.f789cd44.js.map",
+    "static/js/2.f158a218.chunk.js": "/To-Do-List-App/static/js/2.f158a218.chunk.js",
+    "static/js/2.f158a218.chunk.js.map": "/To-Do-List-App/static/js/2.f158a218.chunk.js.map",
+    "index.html": "/To-Do-List-App/index.html",
+    "precache-manifest.bc13e15d6c1e716c7ab9e7d26cc81a08.js": "/To-Do-List-App/precache-manifest.bc13e15d6c1e716c7ab9e7d26cc81a08.js",
+    "service-worker.js": "/To-Do-List-App/service-worker.js",
+    "static/css/main.83cbd2df.chunk.css.map": "/To-Do-List-App/static/css/main.83cbd2df.chunk.css.map",
+    "static/js/2.f158a218.chunk.js.LICENSE.txt": "/To-Do-List-App/static/js/2.f158a218.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f789cd44.js",
+    "static/js/2.f158a218.chunk.js",
+    "static/css/main.83cbd2df.chunk.css",
+    "static/js/main.f281c735.chunk.js"
+  ]
+}
